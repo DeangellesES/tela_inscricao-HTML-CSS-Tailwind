@@ -8,7 +8,7 @@
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
   <li><b>HTML</b></li>
-  <li><b>CSS</b> - Tailwind</li>
+  <li><b>CSS</b> - Tailwind - Responsivo</li>
 </ul>
 
 <h2>⚙️ Funcionalidades</h2>

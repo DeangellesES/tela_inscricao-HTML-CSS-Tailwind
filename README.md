@@ -1,7 +1,7 @@
 <h1>Projeto: Tela de Inscrição </h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto front-end de uma tela de inscrição desenvolvido para estudar e práticar Tailwind-css.</p>
+<p>Projeto front-end de uma tela de inscrição desenvolvido para estudar e praticar Tailwind-css.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/tela_inscricao-HTML-CSS-Tailwind/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 

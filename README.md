@@ -22,4 +22,5 @@
   <li>Animação sino vibrando infinitamente no :hover</li>
   <li>Responsivo</li>
   <li>box-shadow</li>
+  <li>form, label, input</li>
 </ul>

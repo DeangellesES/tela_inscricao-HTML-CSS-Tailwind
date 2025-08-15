@@ -1,4 +1,4 @@
-<h1>Projeto: Tela de inscricao </h1>
+<h1>Projeto: Tela de Inscrição </h1>
 
 <h2>📌 Sobre o Projeto</h2>
 <p>Projeto front-end de uma tela de inscrição desenvolvido para estudar e práticar Tailwind-css.</p>
